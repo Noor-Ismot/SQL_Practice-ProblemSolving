@@ -47,14 +47,14 @@ SQL_PRACTICE-PROBLEMSOLVING/
 | 6 | [problem6.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem6.sql) | 🟢 Done | Concat two columns with CONCAT() functions |
 | 7 | [problem7.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem7.sql) | 🟢 Done | Join two tables based on a common column |
 | 8 | [problem8.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem8.sql) | 🟢 Done | Counting total by filtering a date condition |
-| 9 | [problem9.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem9.sql) | 🟢 Done | filter with subquery and usage of max() function |
-| 10 | [problem10.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem10.sql) | ⚪ Planned | To be added |
-| 11 | [problem11.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem11.sql) | ⚪ Planned | To be added |
-| 12 | [problem12.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem12.sql) | ⚪ Planned | To be added |
-| 13 | [problem13.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem13.sql) | ⚪ Planned | To be added |
-| 14 | [problem14.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem14.sql) | ⚪ Planned | To be added |
-| 15 | [problem15.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem15.sql) | ⚪ Planned | To be added |
-| 16 | [problem16.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem16.sql) | ⚪ Planned | To be added |
+| 9 | [problem9.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem9.sql) | 🟢 Done | Filter with subquery and usage of max() function |
+| 10 | [problem10.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem10.sql) | 🟢 Done | Filter data with IN keyword |
+| 11 | [problem11.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem11.sql) | 🟢 Done | Count total number of a filed based on a condition |
+| 12 | [problem12.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem12.sql) | 🟢 Done | Filtering data by comparing date values |
+| 13 | [problem13.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem13.sql) | 🟢 Done | Filter data with based on a numerical value |
+| 14 | [problem14.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem14.sql) | 🟢 Done | Filter data based on a condition and distinct usage |
+| 15 | [problem15.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem15.sql) | 🟢 Done | Filter data with multiple conditions |
+| 16 | [problem16.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem16.sql) | 🟢 Done | Filter data with multiple conditions with NULL and string comparison |
 
 ## 📊 Progress Tracker : Medium
 

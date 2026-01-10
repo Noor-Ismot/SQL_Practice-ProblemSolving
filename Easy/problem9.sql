@@ -1,3 +1,6 @@
+--Author: Noor Ismot Ara --
+-- Website: https://www.sql-practice.com/ --
+
 -- Solution 1: Using ORDER BY and LIMIT --
 SELECT 
     first_name,
