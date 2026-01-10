@@ -58,9 +58,18 @@ SQL_PRACTICE-PROBLEMSOLVING/
 
 ## 📊 Progress Tracker : Medium
 
-| # | Solution File | Status | Notes |
-|---|-------------|--------|-------|
-| 1 | problem1.sql | ⚪ Planned |  |
+| # | Solution File | Notes |
+|---|-------------  |-------|
+| 1 | [problem1.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem1.sql)       | Find unique date data and Order by ascending |
+| 2 | [problem2.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem2.sql)       | Filter data with GROUP BY and HAVING conditions |
+| 3 | [problem3.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem3.sql)       | Filter data with String pattern and length condition |
+| 4 | [problem4.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem4.sql)       | JOIN table and filter data from second table |
+| 5 | [problem5.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem5.sql)       | Order data with multiple conditions |
+| 6 | [problem6.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem6.sql)       | count column values and display in the same row |
+| 7 | [problem7.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem7.sql)       | Filter data with IN keyword and order by multiple columns |
+| 8 | [problem8.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem8.sql)       | Filter data with GROUP BY multiple columns and HAVING condition |
+| 9 | [problem9.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem9.sql)       | Show data with GROUP BY and ORDER BY |
+|10 | [problem10.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem10.sql)       | Union data from two tables and add a new column |
 
 ## 📊 Progress Tracker : Hard
 
