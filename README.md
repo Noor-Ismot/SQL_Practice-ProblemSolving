@@ -37,24 +37,24 @@ SQL_PRACTICE-PROBLEMSOLVING/
 
 ## 📊 Progress Tracker : Easy
 
-| # | Solution File  | Approach |
-| --- | --- | --- | --- |
-| 1 | [problem1.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem1.sql)   | Basic Filtering with string condition |
-| 2 | [problem2.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem2.sql)  | Filtering with NULL values |
-| 3 | [problem3.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem3.sql)  | Filtering with string pattern matching |
-| 4 | [problem4.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem4.sql)  | Filtering with numerical range condition |
-| 5 | [problem5.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem5.sql)  | Update table existing column's value with NULL condition |
-| 6 | [problem6.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem6.sql)  | Concat two columns with CONCAT() functions |
-| 7 | [problem7.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem7.sql)  | Join two tables based on a common column |
-| 8 | [problem8.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem8.sql)  | Counting total by filtering a date condition |
-| 9 | [problem9.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem9.sql)  | Filter with subquery and usage of max() function |
-| 10 | [problem10.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem10.sql)  | Filter data with IN keyword |
-| 11 | [problem11.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem11.sql)  | Count total number of a filed based on a condition |
-| 12 | [problem12.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem12.sql)  | Filtering data by comparing date values |
-| 13 | [problem13.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem13.sql)  | Filter data with based on a numerical value |
-| 14 | [problem14.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem14.sql)  | Filter data based on a condition and distinct usage |
-| 15 | [problem15.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem15.sql)  | Filter data with multiple conditions |
-| 16 | [problem16.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem16.sql)  | Filter data with multiple conditions with NULL and string comparison |
+| # | Solution File | Topic / Concept |
+|---|---------------|----------------|
+| 1 | [problem1.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem1.sql) | Basic filtering with string conditions |
+| 2 | [problem2.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem2.sql) | Filtering with NULL values |
+| 3 | [problem3.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem3.sql) | String pattern matching |
+| 4 | [problem4.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem4.sql) | Numerical range filtering |
+| 5 | [problem5.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem5.sql) | Updating values with NULL conditions |
+| 6 | [problem6.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem6.sql) | Column concatenation using CONCAT() |
+| 7 | [problem7.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem7.sql) | Joining tables on a common column |
+| 8 | [problem8.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem8.sql) | Counting records with date filtering |
+| 9 | [problem9.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem9.sql) | Subquery with MAX() function |
+|10 | [problem10.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem10.sql) | Filtering with IN keyword |
+|11 | [problem11.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem11.sql) | Conditional aggregation with COUNT() |
+|12 | [problem12.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem12.sql) | Date comparison filtering |
+|13 | [problem13.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem13.sql) | Numeric value-based filtering |
+|14 | [problem14.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem14.sql) | DISTINCT with conditional filtering |
+|15 | [problem15.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem15.sql) | Multiple condition filtering |
+|16 | [problem16.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Easy/problem16.sql) | Combined NULL and string condition filtering |
 
 ## 📊 Progress Tracker : Medium
 
