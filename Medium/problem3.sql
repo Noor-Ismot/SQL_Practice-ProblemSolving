@@ -6,6 +6,6 @@ SELECT
 	first_name
 FROM 
 	patients
-where 
-	first_name like 's%s' 
-    AND len(first_name) >=6
+WHERE 
+	first_name LIKE 's%s' 
+    AND LEN(first_name) >=6

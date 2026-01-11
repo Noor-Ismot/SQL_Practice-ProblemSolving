@@ -7,6 +7,6 @@ SELECT
 	p.last_name
 FROM 
 	patients p
-join admissions a
-	on a.patient_id = p.patient_id
-where a.diagnosis = 'Dementia';
+JOIN admissions a
+	ON a.patient_id = p.patient_id
+WHERE a.diagnosis = 'Dementia';

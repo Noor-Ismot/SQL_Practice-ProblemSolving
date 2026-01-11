@@ -10,6 +10,6 @@ GROUP BY
 	city
 ORDER BY 
 	num_patients DESC, 
-    city asc;
+    city ASC;
 
 

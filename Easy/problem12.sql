@@ -10,4 +10,4 @@ SELECT
     attending_doctor_id
 FROM 
 	admissions
-where admission_date = discharge_date;
+WHERE admission_date = discharge_date;

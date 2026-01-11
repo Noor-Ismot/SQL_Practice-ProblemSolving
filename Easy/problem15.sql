@@ -7,6 +7,6 @@ SELECT
     birth_date
 FROM 
 	patients
-where 
+WHERE 
 	height >160 
-    AND weight >70;
+    AND weight > 70;

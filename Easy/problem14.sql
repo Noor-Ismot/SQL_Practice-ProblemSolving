@@ -3,8 +3,8 @@
 
 --Solution using Distinct to get unique cities in province_id 'NS'--
 SELECT 
-	distinct city
+	DISTINCT city
 FROM 
 	patients
-where 
+WHERE 
 	province_id = 'NS';

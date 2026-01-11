@@ -70,6 +70,16 @@ SQL_PRACTICE-PROBLEMSOLVING/
 | 8 | [problem8.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem8.sql)       | Filter data with GROUP BY multiple columns and HAVING condition |
 | 9 | [problem9.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem9.sql)       | Show data with GROUP BY and ORDER BY |
 |10 | [problem10.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem10.sql)       | Union data from two tables and add a new column |
+|11 | [problem11.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem11.sql)       | Filter Null values and show data with GROUP BY and ORDER BY |
+|12 | [problem12.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem12.sql)       | Filter data with date range and order by date |
+|13 | [problem13.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem13.sql)       | Format string and concatenate and order by the result |
+|14 | [problem14.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem14.sql)       | Filter data with GROUP BY and HAVING conditions |
+|15 | [problem15.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem15.sql)       | Min, Max Aggregate function usage |
+|16 | [problem16.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem16.sql)       | date function and apply aggregate function |
+|17 | [problem17.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem17.sql)       | Show all columns for a specific condition with most recent date |
+|18 | [problem18.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem18.sql)       | WHERE clause with OR to combine two different criteria and few other functions usage to filter data |
+|19 | [problem19.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem19.sql)       | Joined two tables and group by the data to filter. |
+|20 | [problem20.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem20.sql)       | This query joins the doctors and admissions tables, groups by doctor_id, and calculates the first and last admission dates for each doctor. |
 
 ## 📊 Progress Tracker : Hard
 

@@ -5,6 +5,6 @@ SELECT
     first_name
 FROM 
     patients
-order by
+ORDER BY
   len(first_name),
   first_name;

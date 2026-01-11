@@ -15,4 +15,15 @@ Display the two results in the same row.
 9. Show the city and the total number of patients in the city.
 Order from most to least patients and then by city name ascending.
 10. Show first name, last name and role of every person that is either patient or doctor.
-The roles are either "Patient" or "Doctor"
+The roles are either "Patient" or "Doctor".
+11. Show all allergies ordered by popularity. Remove NULL values from query.
+12. Show all patient's first_name, last_name, and birth_date who were born in the 1970s decade. Sort the list starting from the earliest birth_date.
+13. We want to display each patient's full name in a single column. Their last_name in all upper letters must appear first, then first_name in all lower case letters. Separate the last_name and first_name with a comma. Order the list by the first_name in decending order
+EX: SMITH,jane
+14. Show the province_id(s), sum of height; where the total sum of its patient's height is greater than or equal to 7,000.
+15. Show the difference between the largest weight and smallest weight for patients with the last name 'Maroni'.
+16. Show all of the days of the month (1-31) and how many admission_dates occurred on that day. Sort by the day with most admissions to least admissions.
+17. Show all columns for patient_id 542's most recent admission_date.
+18. Show patient_id, attending_doctor_id, and diagnosis for admissions that match one of the two criteria: 1. patient_id is an odd number and attending_doctor_id is either 1, 5, or 19. 2. attending_doctor_id contains a 2 and the length of patient_id is 3 characters.
+19. Show first_name, last_name, and the total number of admissions attended for each doctor. Every admission has been attended by a doctor.
+20. For each doctor, display their id, full name, and the first and last admission date they attended.

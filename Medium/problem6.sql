@@ -1,6 +1,6 @@
 --Author: Noor Ismot Ara --
 -- Website: https://www.sql-practice.com/ --
 
-select 
-	(SELECT count(*) FROM patients where gender = 'M') as male_count,
-    (Select count(*) FROM patients where gender = 'F') as female_count;
+SELECT 
+	(SELECT count(*) FROM patients WHERE gender = 'M') AS male_count,
+    (SELECT count(*) FROM patients WHERE gender = 'F') AS female_count;

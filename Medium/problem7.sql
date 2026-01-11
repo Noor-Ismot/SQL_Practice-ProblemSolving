@@ -1,14 +1,14 @@
 --Author: Noor Ismot Ara --
 -- Website: https://www.sql-practice.com/ --
 
-select 
+SELECT 
 	first_name,
     last_name,
     allergies
-from 
+FROM 
 	patients
-where allergies IN ('Penicillin','Morphine')
-order by 
+WHERE allergies IN ('Penicillin','Morphine')
+ORDER BY 
 	allergies,
     first_name,
     last_name;

@@ -3,8 +3,8 @@
 
 -- Problem 1: Show unique birth years from patients and order them by ascending. --
 SELECT 
-	DISTINCT year(birth_date) as birth_year
+	DISTINCT year(birth_date) AS birth_year
 FROM 
 	patients
-order by 
+ORDER BY
 	birth_year;

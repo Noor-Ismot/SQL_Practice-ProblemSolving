@@ -6,5 +6,5 @@ SELECT
     COUNT(admission_date) as total_admission
 FROM 
 	admissions
-where 
+WHERE 
 	patient_id = 579;
