@@ -58,8 +58,8 @@ SQL_PRACTICE-PROBLEMSOLVING/
 
 ## 📊 Progress Tracker : Medium
 
-| # | Solution File | Notes |
-|---|-------------  |-------|
+| # | Solution File | Topic / Concept |
+|---|---------------|-----------------|
 | 1 | [problem1.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem1.sql)       | Find unique date data and Order by ascending |
 | 2 | [problem2.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem2.sql)       | Filter data with GROUP BY and HAVING conditions |
 | 3 | [problem3.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem3.sql)       | Filter data with String pattern and length condition |
@@ -83,6 +83,10 @@ SQL_PRACTICE-PROBLEMSOLVING/
 |21 | [problem21.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem21.sql)       | Joining two tables and using aggregate functions with GROUP BY and ORDER BY clauses. |
 |22 | [problem22.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem22.sql)       | Joining three tables to get related information from each table based on foreign key relationships. |
 |23 | [problem23.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem23.sql)       | Grouping the records based on first_name and last_name to find duplicates, Using HAVING clause to filter groups with more than one occurrence |
+|24 | [problem24.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem24.sql)       | Formatting patient data with concatenation, rounding, and case statements |
+|25 | [problem25.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem25.sql)       | Sub query to find data with NOT IN keyword|
+|26 | [problem26.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem26.sql)       | Display a single row with max_visits, min_visits, average_visits where the maximum, minimum and average number of admissions per day is calculated. Average is rounded to 2 decimal places.|
+|27 | [problem27.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem27.sql)       | Display every patient that has at least one admission and show their most recent admission along with the patient and doctor's full name.|
 
 ## 📊 Progress Tracker : Hard
 

@@ -30,3 +30,14 @@ EX: SMITH,jane
 21. Display the total amount of patients for each province. Order by descending.
 22. For every admission, display the patient's full name, their admission diagnosis, and their doctor's full name who diagnosed their problem.
 23. display the first name, last name and number of duplicate patients based on their first name and last name. Ex: A patient with an identical name can be considered a duplicate.
+24. Display patient's full name,
+height in the units feet rounded to 1 decimal,
+weight in the unit pounds rounded to 0 decimals,
+birth_date,
+gender non abbreviated.
+
+Convert CM to feet by dividing by 30.48.
+Convert KG to pounds by multiplying by 2.205.
+25. Show patient_id, first_name, last_name from patients whose does not have any records in the admissions table. (Their patient_id does not exist in any admissions.patient_id rows.)
+26. Display a single row with max_visits, min_visits, average_visits where the maximum, minimum and average number of admissions per day is calculated. Average is rounded to 2 decimal places.
+27. Display every patient that has at least one admission and show their most recent admission along with the patient and doctor's full name.

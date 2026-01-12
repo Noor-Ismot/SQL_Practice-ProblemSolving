@@ -1,13 +1,13 @@
 --Author: Noor Ismot Ara --
 -- Website: https://www.sql-practice.com/ --
 
-select
+SELECT
   first_name,
   last_name,
-  count(*) as num_of_duplicates
-from patients
-group by
+  count(*) AS num_of_duplicates
+FROM patients
+GROUP BY
   first_name,
   last_name
-having count(*) > 1
+HAVING count(*) > 1
 
