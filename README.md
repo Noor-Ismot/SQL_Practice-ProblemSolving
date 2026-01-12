@@ -80,6 +80,9 @@ SQL_PRACTICE-PROBLEMSOLVING/
 |18 | [problem18.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem18.sql)       | WHERE clause with OR to combine two different criteria and few other functions usage to filter data |
 |19 | [problem19.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem19.sql)       | Joined two tables and group by the data to filter. |
 |20 | [problem20.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem20.sql)       | This query joins the doctors and admissions tables, groups by doctor_id, and calculates the first and last admission dates for each doctor. |
+|21 | [problem21.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem21.sql)       | Joining two tables and using aggregate functions with GROUP BY and ORDER BY clauses. |
+|22 | [problem22.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem22.sql)       | Joining three tables to get related information from each table based on foreign key relationships. |
+|23 | [problem23.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem23.sql)       | Grouping the records based on first_name and last_name to find duplicates, Using HAVING clause to filter groups with more than one occurrence |
 
 ## 📊 Progress Tracker : Hard
 

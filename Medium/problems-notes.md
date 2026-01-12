@@ -27,3 +27,6 @@ EX: SMITH,jane
 18. Show patient_id, attending_doctor_id, and diagnosis for admissions that match one of the two criteria: 1. patient_id is an odd number and attending_doctor_id is either 1, 5, or 19. 2. attending_doctor_id contains a 2 and the length of patient_id is 3 characters.
 19. Show first_name, last_name, and the total number of admissions attended for each doctor. Every admission has been attended by a doctor.
 20. For each doctor, display their id, full name, and the first and last admission date they attended.
+21. Display the total amount of patients for each province. Order by descending.
+22. For every admission, display the patient's full name, their admission diagnosis, and their doctor's full name who diagnosed their problem.
+23. display the first name, last name and number of duplicate patients based on their first name and last name. Ex: A patient with an identical name can be considered a duplicate.
