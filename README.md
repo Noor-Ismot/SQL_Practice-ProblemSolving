@@ -85,8 +85,8 @@ SQL_PRACTICE-PROBLEMSOLVING/
 |23 | [problem23.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem23.sql)       | Grouping the records based on first_name and last_name to find duplicates, Using HAVING clause to filter groups with more than one occurrence |
 |24 | [problem24.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem24.sql)       | Formatting patient data with concatenation, rounding, and case statements |
 |25 | [problem25.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem25.sql)       | Sub query to find data with NOT IN keyword|
-|26 | [problem26.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem26.sql)       | Display a single row with max_visits, min_visits, average_visits where the maximum, minimum and average number of admissions per day is calculated. Average is rounded to 2 decimal places.|
-|27 | [problem27.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem27.sql)       | Display every patient that has at least one admission and show their most recent admission along with the patient and doctor's full name.|
+|26 | [problem26.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem26.sql)       | This query retrieves the maximum, minimum, and average number of patient visits per admission date from the admissions table. It first counts the number of visits for each admission date using a subquery and then calculates the max, min, and average from those counts.|
+|27 | [problem27.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Medium/problem27.sql)       | Query retrieves the most recent admission date for each patient along with their attending doctor's name by joining the admissions, patients, and doctors tables. It uses a correlated subquery to filter for the latest admission date per patient.|
 
 ## 📊 Progress Tracker : Hard
 
