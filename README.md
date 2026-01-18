@@ -92,4 +92,5 @@ SQL_PRACTICE-PROBLEMSOLVING/
 
 | # | Solution File | Status | Notes |
 |---|-------------|--------|-------|
-| 1 | problem1.sql | ⚪ Planned |  |
+| 1 | [problem1.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Hard/problem1.sql) | This SQL query groups patients by weight ranges of 10 units and counts the number of patients in each group. It uses the FLOOR function to categorize weights and aggregates the results with COUNT, ordering them in descending order by weight group. |  |
+| 2 | problem2.sql | ⚪ Planned |  |
