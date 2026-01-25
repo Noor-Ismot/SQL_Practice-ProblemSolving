@@ -1,3 +1,6 @@
+--Author: Noor Ismot Ara --
+-- Website: https://www.sql-practice.com/ --
+
 SELECT
   COUNT(*) AS patients_in_group,
   FLOOR(weight / 10) * 10 AS weight_group
