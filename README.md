@@ -90,8 +90,8 @@ SQL_PRACTICE-PROBLEMSOLVING/
 
 ## 📊 Progress Tracker : Hard
 
-| # | Solution File | Status | Notes |
-|---|---------------|--------|-------|
+| # | Solution File | Topic/ Concept |
+|---|---------------|----------------|
 | 1 | [problem1.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Hard/problem1.sql) | This SQL query groups patients by weight ranges of 10 units and counts the number of patients in each group. It uses the FLOOR function to categorize weights and aggregates the results with COUNT, ordering them in descending order by weight group. |  |
 | 2 | [problem2.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Hard/problem2.sql) | This SQL query retrieves patient_id, weight, height, and a boolean isObese value from the patients table. The isObese column is calculated using a CASE statement. |  |
 | 3 | [problem3.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Hard/problem3.sql) | This SQL query retrieves patient_id, first_name, last_name, and attending doctor's specialty for patients diagnosed with 'Epilepsy' and whose attending doctor has the first name 'Lisa'. It joins the patients, admissions, and doctors tables to gather this information. |  |
