@@ -9,3 +9,9 @@ where first_name like '%%r%'
     AND weight between 60 AND 80
     AND patient_id % 2 != 0 
     AND city = 'Kingston';
+
+
+/*
+Summary of sql concept used to resolve the problem: 
+Filtering patients based on first name pattern, gender, birth month, weight range, odd patient ID, and city.
+*/

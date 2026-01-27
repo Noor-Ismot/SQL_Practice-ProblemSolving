@@ -18,3 +18,5 @@ Show only the patients who has a diagnosis as 'Epilepsy' and the doctor's first 
 - Their weight would be between 60kg and 80kg
 - Their patient_id is an odd number
 - They are from the city 'Kingston'
+
+1. Show the percent of patients that have 'M' as their gender. Round the answer to the nearest hundreth number and in percent form.
