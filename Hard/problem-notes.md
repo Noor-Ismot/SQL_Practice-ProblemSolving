@@ -9,3 +9,12 @@ Show only the patients who has a diagnosis as 'Epilepsy' and the doctor's first 
 5. Each admission costs $50 for patients without insurance, and $10 for patients with insurance. All patients with an even patient_id have insurance. Give each patient a 'Yes' if they have insurance, and a 'No' if they don't have insurance. Add up the admission_total cost for each has_insurance group.
 
 6. Show the provinces that has more patients identified as 'M' than 'F'. Must only show full province_name
+
+7. We are looking for a specific patient. Pull all columns for the patient who matches the following criteria:
+
+- First_name contains an 'r' after the first two letters.
+- Identifies their gender as 'F'
+- Born in February, May, or December
+- Their weight would be between 60kg and 80kg
+- Their patient_id is an odd number
+- They are from the city 'Kingston'
