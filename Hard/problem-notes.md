@@ -24,3 +24,5 @@ Show only the patients who has a diagnosis as 'Epilepsy' and the doctor's first 
 9.For each day display the total amount of admissions on that day. Display the amount changed from the previous date.
 
 10.Sort the province names in ascending order in such a way that the province 'Ontario' is always on top.
+
+11.For each day display the total amount of admissions on that day. Display the amount changed from the previous date.

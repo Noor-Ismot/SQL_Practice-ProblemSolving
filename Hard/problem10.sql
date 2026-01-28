@@ -17,3 +17,8 @@ FROM province_names
 ORDER BY
     CASE WHEN province_name = 'Ontario' THEN 0 ELSE 1 END,
     province_name;
+
+
+--concept used:--
+--ORDER BY with CASE statement to customize sorting order.
+--UNION ALL to combine results while maintaining order.

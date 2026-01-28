@@ -100,3 +100,6 @@ SQL_PRACTICE-PROBLEMSOLVING/
 | 6 | [problem6.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Hard/problem6.sql) | This SQL query retrieves the full province names where the number of male patients exceeds the number of female patients. It uses GROUP BY and HAVING clauses to filter provinces based on gender counts. |  |
 | 7 | [problem7.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Hard/problem7.sql) | This SQL query retrieves patient information with multiple filtering conditions. |  |
 | 8 | [problem8.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Hard/problem8.sql) | CTE and conditional aggregation with CASE statement to count patients |  |
+| 9 | [problem9.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Hard/problem9.sql) |  |  |
+|10 | [problem10.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Hard/problem10.sql) | ORDER BY with CASE statement to customize sorting order, UNION ALL to combine results while maintaining order. |  |
+|11 | [problem11.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Hard/problem11.sql) |  |  |
