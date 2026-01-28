@@ -29,3 +29,4 @@ SELECT
         '%'
     ) AS percent_of_male_patients
 FROM patients;
+

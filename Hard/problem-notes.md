@@ -19,4 +19,8 @@ Show only the patients who has a diagnosis as 'Epilepsy' and the doctor's first 
 - Their patient_id is an odd number
 - They are from the city 'Kingston'
 
-1. Show the percent of patients that have 'M' as their gender. Round the answer to the nearest hundreth number and in percent form.
+8.Show the percent of patients that have 'M' as their gender. Round the answer to the nearest hundreth number and in percent form.
+
+9.For each day display the total amount of admissions on that day. Display the amount changed from the previous date.
+
+10.Sort the province names in ascending order in such a way that the province 'Ontario' is always on top.

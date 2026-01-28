@@ -99,4 +99,4 @@ SQL_PRACTICE-PROBLEMSOLVING/
 | 5 | [problem5.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Hard/problem5.sql) | This SQL query calculates admission costs for patients based on insurance status, where even patient_ids have insurance. It assigns 'Yes' or 'No' for insurance status and sums the total admission costs for each group. |  |
 | 6 | [problem6.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Hard/problem6.sql) | This SQL query retrieves the full province names where the number of male patients exceeds the number of female patients. It uses GROUP BY and HAVING clauses to filter provinces based on gender counts. |  |
 | 7 | [problem7.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Hard/problem7.sql) | This SQL query retrieves patient information with multiple filtering conditions. |  |
-| 8 | [problem8.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Hard/problem8.sql) |  |  |
+| 8 | [problem8.sql](https://github.com/Noor-Ismot/SQL_Practice-ProblemSolving/blob/main/Hard/problem8.sql) | CTE and conditional aggregation with CASE statement to count patients |  |
